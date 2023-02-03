@@ -1,2 +1,1 @@
-# tincat
-Fake product singlepage web-site.
+TinCat Starting Files
